@@ -1,4 +1,5 @@
-# Python_SnakeGame
+# snake-in-python
+
 Everything was made using pygame module
 
 Screenshot example:
